@@ -1,74 +1,92 @@
 [
   {
     "id": 0,
-    "name": "Arya Stark",
-    "image": "assets/images/arya_stark.jpeg",
+    "name": "Captain America",
+    "image": "assets/images/captainamerica.jpg",
     "isClicked": false
   },
   {
     "id": 1,
-    "name": "Brienne of Tarth",
-    "image": "assets/images/brienne_of_tarth.jpg",
+    "name": "Iron Man",
+    "image": "assets/images/ironman.jpg",
     "isClicked": false
   },
   {
     "id": 2,
-    "name": "Bronn",
-    "image": "assets/images/bronn.jpg",
+    "name": "Thor",
+    "image": "assets/images/thor.jpg",
     "isClicked": false
   },
   {
     "id": 3,
-    "name": "Cersei Lannister",
-    "image": "assets/images/cersei_lannister.jpg",
+    "name": "Hulk",
+    "image": "assets/images/hulk.jpg",
     "isClicked": false
   },
   {
     "id": 4,
-    "name": "Daenerys Targaryen",
-    "image": "assets/images/daenerys_targaryen.jpg",
+    "name": "Black Panther",
+    "image": "assets/images/blackpanther.jpg",
     "isClicked": false
   },
   {
     "id": 5,
-    "name": "Jamie Lannister",
-    "image": "assets/images/jamie_lannister.jpg",
+    "name": "Black Widow",
+    "image": "assets/images/blackwidow.jpg",
     "isClicked": false
   },
   {
     "id": 6,
-    "name": "Jon Snow",
-    "image": "assets/images/jon_snow.jpeg",
+    "name": "Doctor Strange",
+    "image": "assets/images/doctorstrange.jpg",
     "isClicked": false
   },
   {
     "id": 7,
-    "name": "Margaery Tyrell",
-    "image": "assets/images/margaery_tyrell.jpg",
+    "name": "Ant Man",
+    "image": "assets/images/antman.jpg",
     "isClicked": false
   },
   {
     "id": 8,
-    "name": "Petyr Baelish",
-    "image": "assets/images/petyr_baelish.jpg",
+    "name": "Wanda Maxioff",
+    "image": "assets/images/wanda.jpg",
     "isClicked": false
   },
   {
     "id": 9,
-    "name": "Samwell Tarly",
-    "image": "assets/images/samwell_tarly.jpg",
+    "name": "Gamora",
+    "image": "assets/images/gamora.jpg",
     "isClicked": false
   },
   {
     "id": 10,
-    "name": "Sansa Stark",
-    "image": "assets/images/sansa_stark.jpeg",
+    "name": "Rocket Raccoon",
+    "image": "assets/images/raccon.jpg",
     "isClicked": false
   },
   {
     "id": 11,
-    "name": "Tyrion Lannister",
-    "image": "assets/images/tyrion_lannister.jpg",
+    "name": "Groot",
+    "image": "assets/images/groot.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 12,
+    "name": "Thanos",
+    "image": "assets/images/Thanos.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 13,
+    "name": "Star Lord",
+    "image": "assets/images/starlord.jpg",
+    "isClicked": false
+  },
+  {
+    "id": 14,
+    "name": "Nebula",
+    "image": "assets/images/nebula.jpg",
     "isClicked": false
   }
 ]
